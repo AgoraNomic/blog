@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Times of Agora #1"
+title:  "The Times of Agora"
 author: Publius Scribonius Scholasticus
 editor: Aris
 date:   2017-05-21 18:20:30 -0400
