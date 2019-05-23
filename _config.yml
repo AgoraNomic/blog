@@ -17,9 +17,9 @@ title: Agora Nomic
 email: agora-discussion@agoranomic.org
 description: > # this means to ignore newlines until "baseurl:"
   This site is the homepage for Agora's GitHub branch and who knows what else, but remember "Look upon our works, ye Marvy, but do always Dance a Powerful Dance."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "agoranomic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username:
 github_username:  AgoraNomic
 
 # Build settings
